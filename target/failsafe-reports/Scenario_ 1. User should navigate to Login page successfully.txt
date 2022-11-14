@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: 1. User should navigate to Login page successfully
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.001 s - in Scenario: 1. User should navigate to Login page successfully
